@@ -1,1 +1,3 @@
-# -
+<h1> data101 </h1>
+**Data101** is a versatile PHP and JavaScript library designed to simplify data manipulation, visualization, and analysis in web applications. It offers a range of tools for handling datasets, generating charts, and performing real-time computations with minimal code. Whether you're building dashboards, reports, or dynamic interfaces, Data101 provides lightweight, efficient functions to streamline data-driven development. Its modular structure allows easy integration with existing projects, making it a handy resource for developers working with structured or dynamic data. Open-source and well-documented, Data101 is ideal for both beginners and advanced users seeking a quick, scalable solution for data tasks.
+
